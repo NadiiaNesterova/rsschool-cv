@@ -35,4 +35,3 @@ alert( result );
 -----
 ## English
 A1
-<img src="img/flora.jpeg" width="50" height="50"/>
