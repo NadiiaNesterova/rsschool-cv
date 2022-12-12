@@ -13,13 +13,12 @@ I was interested in web development because this profession provides endless opp
 I love learning new things and acquiring new skills.
 My dream is to become an experienced Frontend developer.
 
-
 ## Skills
 - HTML
 - CSS
 - JavaScript (Basic)
 
-##Code Example
+## Code Example
 function sum(a, b) {
   return a + b;
 }
